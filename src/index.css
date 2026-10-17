@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  }
+  
+  .font-brand {
+    font-family: 'Cinzel', serif;
+  }
+
+  .font-signature {
+    font-family: 'Zeyada', cursive;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #1a1714;
+}
+::-webkit-scrollbar-thumb {
+  background: #383028;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #e63946;
+}

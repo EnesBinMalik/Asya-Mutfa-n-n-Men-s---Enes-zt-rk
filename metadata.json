@@ -1,0 +1,6 @@
+{
+  "name": "Asian Kitchen's Menu - Enes Öztürk",
+  "description": "Asian Kitchen lezzetli Uzak Doğu menüsü, JavaScript map ve reduce fonksiyonlarıyla dinamik kategori filtreleme ve sipariş yönetimi. Hazırlayan: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
